@@ -1,0 +1,16 @@
+C:\Users\stud_centr\source\repos\Lab1\Lab1\bin\Debug\net5.0\Lab1.exe
+C:\Users\stud_centr\source\repos\Lab1\Lab1\bin\Debug\net5.0\Lab1.deps.json
+C:\Users\stud_centr\source\repos\Lab1\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.json
+C:\Users\stud_centr\source\repos\Lab1\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.dev.json
+C:\Users\stud_centr\source\repos\Lab1\Lab1\bin\Debug\net5.0\Lab1.dll
+C:\Users\stud_centr\source\repos\Lab1\Lab1\bin\Debug\net5.0\ref\Lab1.dll
+C:\Users\stud_centr\source\repos\Lab1\Lab1\bin\Debug\net5.0\Lab1.pdb
+C:\Users\stud_centr\source\repos\Lab1\Lab1\obj\Debug\net5.0\Lab1.csproj.AssemblyReference.cache
+C:\Users\stud_centr\source\repos\Lab1\Lab1\obj\Debug\net5.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud_centr\source\repos\Lab1\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\stud_centr\source\repos\Lab1\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfo.cs
+C:\Users\stud_centr\source\repos\Lab1\Lab1\obj\Debug\net5.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\stud_centr\source\repos\Lab1\Lab1\obj\Debug\net5.0\Lab1.dll
+C:\Users\stud_centr\source\repos\Lab1\Lab1\obj\Debug\net5.0\ref\Lab1.dll
+C:\Users\stud_centr\source\repos\Lab1\Lab1\obj\Debug\net5.0\Lab1.pdb
+C:\Users\stud_centr\source\repos\Lab1\Lab1\obj\Debug\net5.0\Lab1.genruntimeconfig.cache
